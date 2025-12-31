@@ -4,7 +4,7 @@ import ctypes
 from functools import partial
 from json import loads, dumps
 
-ctypes.windll.shcore.SetProcessDpiAwareness(True)
+# ctypes.windll.shcore.SetProcessDpiAwareness(True)
 
 # Setup
 root = Tk()
