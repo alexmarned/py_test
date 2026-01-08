@@ -34,3 +34,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = Example()
     sys.exit(app.exec_())
+
+# рабочий скрипт ввода данных в вывод по нажатию на клавишу
